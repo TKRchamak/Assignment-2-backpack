@@ -27,3 +27,8 @@ h1, h2, h3, h4, h5{
 .bg-color{
     background-color: #FFFFF4;
 }
+
+.mark{
+    color: coral;
+    background-color: #FFFFFF;
+}
