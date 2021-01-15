@@ -4,8 +4,26 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-h1, h2, h3, h4, h5{
-    font-family: 'Oswald', sans-serif;
+h1{
     text-transform: uppercase;
+    font-size: 4em;
 }
+h2{
+    text-transform: uppercase;
+    font-size: 2.5em;
+}
+#highlight{
+    color: #76C27E;
+}
+h1, h2, h3, h4, h5{
+    color: #363958;
+    font-family: 'Oswald', sans-serif;
 
+}
+.btn-1{
+    background-color: #2A1E59;
+    border: 0;
+}
+.bg-color{
+    background-color: #FFFFF4;
+}
